@@ -1,6 +1,6 @@
 # Hi there, I'm Justin 👋
 
-![](https://komarev.com/ghpvc/?username=Justin3go&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Justin3go&color=646CFF&style=for-the-badge&label=PROFILE+VIEWS&logo=github)
 
 ## About Me
 
