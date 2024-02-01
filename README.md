@@ -6,6 +6,6 @@
 
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin3go&show_icons=true&theme=light)
 
-## What's more
+## What's More
 
 Welcome to [justin3go.com](https://justin3go.com)
